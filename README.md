@@ -6,14 +6,32 @@
 To write a program to train the classifier for electric car performance and battery dataset
 ###  Algorithm:
 1.Start
+
+
 2.Load the dataset
+
+
 3.Create target variable
+
+
 4.Select useful futures
+
+
 5.encode categorical data
+
+
 6.Split the dataset
+
+
 7.Normalise data
+
+
 8.Train the classifier
+
+
 9.Evaluate the model
+
+
 10.Stop
 ### Program:
 ```
