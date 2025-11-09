@@ -1,7 +1,7 @@
 # AI-MINI-PROJECT
 # Ex.No: 13 Learning – Use Supervised Learning  
 ### DATE:28/10/2025                                                                            
-### REGISTER NUMBER : 212223040177
+### REGISTER NUMBER : 212223060315
 ### AIM: 
 To write a program to train the classifier for electric car performance and battery dataset
 ###  Algorithm:
